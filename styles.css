@@ -108,3 +108,29 @@ button:hover{
     border-style: solid;
 }
 
+#capybara-gif{
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: 500px;
+    border-style: solid;
+}
+
+#capybara-paragraph{
+    font-size: 40px;
+    text-align: center;
+    font-family: Georgia;
+    text-decoration: overline;
+}
+
+#sites-capyfacts{
+    font-size: 40px;
+    font-family: Helvetica;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: overline;
+}
+
+#capy-button{
+    margin-left: 650px;
+}
