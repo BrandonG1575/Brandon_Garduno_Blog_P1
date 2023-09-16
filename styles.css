@@ -59,5 +59,28 @@ button:hover{
     object-fit: cover;
     width: 1500px;
     height: 500px;
-    
+    border-style: solid;
+}
+
+#overview{
+    font-family: Helvetica;
+    font-size: 60px;
+    font-weight: lighter;
+    text-align: center; 
+}
+
+#punchline{
+    font-size: 40px;
+    text-align: center;
+    margin-top: -40px;
+    font-family: Georgia;
+    text-decoration: overline;
+}
+
+#subline-about{
+    font-size: 40px;
+    text-align: center;
+    margin-top: -40px;
+    font-family: Georgia;
+    text-decoration: overline;
 }
