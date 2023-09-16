@@ -142,3 +142,11 @@ button:hover{
     text-align: center;
     text-decoration: overline;
 }
+
+#Topics{
+    font-size: 40px;
+    font-family: Helvetica;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: overline;
+}
